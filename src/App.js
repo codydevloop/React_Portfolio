@@ -8,7 +8,6 @@ import {
 import './App.css';
 import Footer from "./components/Footer/Footer";
 import Nav from "./components/Nav/Nav";
-import Header from "./components/Header/Header";
 import Portfolio from "./components/Portfolio/Portfolio";
 import Home from "./components/Home/Home";
 

@@ -1,13 +1,13 @@
 import React from "react";
 import Nav from "../Nav/Nav";
-import Header from "../Header/Header";
+import AboutMe from "../AboutMe/AboutMe";
 import Container from "react-bootstrap/Container"
 
 const Home = () => {
     return (
         <>
             <Nav />
-            <Header />
+            <AboutMe />
         </>
     )
 };
